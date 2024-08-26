@@ -1,4 +1,4 @@
-# Pooling Public Transport Application
+# EcoTransit:Pooling Public Transport Application
 
 ## Overview
 This project aims to develop a pooling public transport application that optimizes ride-sharing for users. The application connects riders and drivers through an intuitive interface, allowing for efficient pooling of rides, reducing costs, and minimizing environmental impact.
