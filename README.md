@@ -25,6 +25,9 @@ The system consists of the following components:
 
 ![System Architecture](https://github.com/tanish0510/EcoFinance/blob/main/Blank%20diagram.png)
 
+## Conceptual Architecture
+![System Architecture](https://github.com/tanish0510/EcoFinance/blob/main/Blank%20diagram.png)
+
 ## Installation
 1. Clone the repository:
    ```bash
