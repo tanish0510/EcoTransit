@@ -23,7 +23,7 @@ The system consists of the following components:
 - **Database**: MongoDB is used for storing user data, ride requests, and performance metrics.
 - **APIs**: RESTful APIs facilitate communication between the front-end and back-end services.
 
-![System Architecture](path_to_your_architecture_diagram.png)
+![System Architecture](https://github.com/tanish0510/EcoFinance/blob/main/Blank%20diagram.png)
 
 ## Installation
 1. Clone the repository:
